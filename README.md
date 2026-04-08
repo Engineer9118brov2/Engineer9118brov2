@@ -17,7 +17,7 @@ Shipping production AI apps with Swift — before finishing middle school.
 ## Current Projects
 
 - 📖 **[Fable](https://github.com/Engineer9118brov2/Fable)** — Native iOS · macOS · watchOS AI assistant; multi-agent conductor pattern, 40+ system tools, long-term per-agent memory, and full Apple ecosystem integration
-- 🧱 **Lego Spike Prime Controller** — iOS app to control Lego Spike Prime with a Pybricks-compatible protocol + AI features; built with my dad, targeting Pybricks/Lego as potential buyers
+- 🧱 **[RoboBrick](https://github.com/maxklimen/MyRoboBrick)** — iOS app to control Lego Spike Prime with a Pybricks-compatible protocol + AI features; built with my dad, targeting Pybricks/Lego as potential buyers
 - 🤖 **[createyourownai](https://github.com/Engineer9118brov2/createyourownai)** — Build your own AI — no experience required
 - 📈 **StockTradingAI** — ML-powered trading signal system in Python
 
@@ -25,8 +25,12 @@ Shipping production AI apps with Swift — before finishing middle school.
 
 - 🧬 **OpenClaudik** — Where it all started; native Claude API chat for Apple platforms, predecessor to Fable
 - 🏫 **Schoology Alternative** — Because LAUSD students deserve better than stock Schoology
-- 🎮 **platformergame** — Swift platformer experiment
 - 🌌 **[Solar System](https://github.com/Engineer9118brov2/Solar-system)** — Interactive HTML solar system
+
+## Schoolwork Websites and stuff
+- **[Golden Age of Islam Project *(7th grade assignment)*](https://github.com/Engineer9118brov2/GoldenAgeOfIslam)**
+- **[AMERICAN REVOLUTION BATTLES *(5th grade assignment)*](https://github.com/Engineer9118brov2/AMERICAN-REVOLUTION-BATTLES-FINAL-)**
+- **Lots of others, just not on GitHub**
 
 ---
 
@@ -52,13 +56,11 @@ Shipping production AI apps with Swift — before finishing middle school.
 
 ## Beyond Code
 
-- 🏊 Competitive swimmer — CCAT Encino (50 yd free ~27s · 50 yd fly ~30s)
-- 🏃 Spartan Race finisher — medals on the wall
-- 🏀 Basketball — strong defender
-- 🚴 Cycling — Avigo Assault mountain bike
+- 🚴 Competitive swimmer — CCAT Encino (50 yd free ~27s · 50 yd fly ~29s)
+- 🚴🚴🏃 Absolutely love to run, cycle, and swim: the triathlon sports.
 - 📷 Photography — Insta360 X3
-- 🧱 Lego collector — Star Wars + Harry Potter, ~12 sets held for resale
-- 🍳 Cooking and baking
+- 🧱 Lego collector — Star Wars, anything will do
+
 
 ---
 
@@ -69,8 +71,6 @@ Shipping production AI apps with Swift — before finishing middle school.
 ## Random Facts
 
 - Originally from Russia; moved to Encino, LA in 2022
-- Russian culture runs deep — Holy Virgin Mary Russian Orthodox Cathedral (theatre, singing, church history, Russian lit)
-- Weekly calls with my grandmother Irina to keep Russian sharp
 - Codes on a 2018 Mac Mini; ships to iPhone 12 via TestFlight
 - Dad works at livex.ai — we build together
 
